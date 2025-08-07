@@ -1,0 +1,132 @@
+[
+    {
+        "Boss": "Easy Clues",
+        "Categories": [
+            "Clue Scrolls"
+        ],
+        "EHB": 16,
+        "Drops": [
+            {
+                "Item": "Flared trousers",
+                "DropRate": 468
+            },
+            {
+                "Item": "Ham Joint",
+                "DropRate": 468
+            },
+            {
+                "Item": "Bob's Shirt",
+                "DropRate": 94,
+                "Types": [
+                    "Clue Items"
+                ]
+            },
+            {
+                "Item": "Golden Chef's Hat",
+                "DropRate": 936
+            },
+            {
+                "Item": "Golden Apron",
+                "DropRate": 936
+            },
+            {
+                "Item": "Team Cape Zero",
+                "DropRate": 1872
+            },
+            {
+                "Item": "Team Cape i",
+                "DropRate": 1872
+            },
+            {
+                "Item": "Team Cape x",
+                "DropRate": 1872
+            },
+            {
+                "Item": "Cape of skulls",
+                "DropRate": 1872
+            },
+            {
+                "Item": "Monk's robe top (g)",
+                "DropRate": 4680
+            },
+            {
+                "Item": "Monks' robe (g)",
+                "DropRate": 4680
+            }
+        ]
+    },
+    {
+        "Boss": "Medium Clues",
+        "Categories": [
+            "Clue Scrolls"
+        ],
+        "EHB": 15,
+        "Drops": [
+            {
+                "Item": "Ranger Boots",
+                "DropRate": 284,
+                "Types": [
+                    "Avernic Treads"
+                ]
+            },
+            {
+                "Item": "Bandos Cloak",
+                "DropRate": 284,
+                "Types": [
+                    "Clue Items"
+                ]
+            }
+        ]
+    },
+    {
+        "Boss": "Hard Clues",
+        "Categories": [
+            "Clue Scrolls"
+        ],
+        "EHB": 8,
+        "Drops": [
+            {
+                "Item": "Zamorak full helm",
+                "DropRate": 325
+            },
+            {
+                "Item": "Black Dragon Mask",
+                "DropRate": 325,
+                "Types": [
+                    "Clue Items"
+                ]
+            }
+        ]
+    },
+    {
+        "Boss": "Elite Clues",
+        "Categories": [
+            "Clue Scrolls"
+        ],
+        "EHB": 4,
+        "Drops": [
+            {
+                "Item": "Sagacious spectacles",
+                "DropRate": 255
+            }
+        ]
+    },
+    {
+        "Boss": "Master Clues",
+        "Categories": [
+            "Clue Scrolls"
+        ],
+        "EHB": 3,
+        "Drops": [
+            {
+                "Item": "Bucket helm (g)",
+                "DropRate": 2269
+            },
+            {
+                "Item": "Bloodhound",
+                "DropRate": 1000,
+                "Types": ["Pet"]
+            }
+        ]
+    }
+]

@@ -1,14 +1,16 @@
 import { useMemo, useState } from 'react';
 import eras from 'common/json/eras.json';
 import TileGenTable from './TileGenTable';
-import { bossesMaps, mobsMaps, raidsMaps, combinedMaps } from './bossMaps';
+import { bossesMaps, mobsMaps, raidsMaps, cluesMaps, combinedMaps } from './bossMaps';
 import './TileGenerator.css';
 
 const DATASETS = {
+  all:    { label: 'Combined', ...combinedMaps },
   bosses:  { label: 'Bosses',   ...bossesMaps },
+  clues:    { label: 'Clues', ...cluesMaps },
   mobs:    { label: 'Mobs',     ...mobsMaps },
   raids:   { label: 'Raids',    ...raidsMaps },
-  all:    { label: 'Combined', ...combinedMaps },
+  
 };
 
 const eraOrder = eras.map(e => e.Era);

@@ -2,6 +2,7 @@ import bosses from 'common/json/bosses.json';
 import mobs   from 'common/json/mobs.json';
 import raids  from 'common/json/raids.json';
 import eras   from 'common/json/eras.json';
+import clues  from 'common/json/clues.json';
 
 const bossEraMap = {};
 eras.forEach(e =>
@@ -50,4 +51,5 @@ function buildMaps(list) {
 export const bossesMaps   = buildMaps(bosses);
 export const mobsMaps     = buildMaps(mobs);
 export const raidsMaps    = buildMaps(raids);
-export const combinedMaps = buildMaps([...bosses, ...mobs, ...raids]);
+export const cluesMaps    = buildMaps(clues);
+export const combinedMaps = buildMaps([...bosses, ...mobs, ...raids, ...clues]);
