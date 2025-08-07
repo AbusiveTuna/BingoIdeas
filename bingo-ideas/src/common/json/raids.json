@@ -1,0 +1,210 @@
+[
+    {
+        "Boss": "Chambers of Xeric",
+        "Categories": ["raid"],
+        "EHB": 2.9,
+        "PurpleChestRate": 27,
+        "Drops": [
+            {
+                "Item": "Dexterous prayer scroll",
+                "ConditionalDropRate": 3.45,
+                "Types": ["raid", "prayers"]
+            },
+            {
+                "Item": "Arcane prayer scroll",
+                "ConditionalDropRate": 3.45,
+                "Types": ["raid", "prayers"]
+            },
+            {
+                "Item": "Twisted buckler",
+                "ConditionalDropRate": 17.25,
+                "Types": ["raid"]
+            },
+            {
+                "Item": "Dragon hunter crossbow",
+                "ConditionalDropRate": 17.25,
+                "Types": ["raid"]
+            },
+            {
+                "Item": "Dinh's bulwark",
+                "ConditionalDropRate": 23,
+                "Types": ["raid"]
+            },
+            {
+                "Item": "Ancestral hat",
+                "ConditionalDropRate": 23,
+                "Types": ["raid", "ancestral", "raid armor"]
+            },
+            {
+                "Item": "Ancestral robe top",
+                "ConditionalDropRate": 23,
+                "Types": ["raid", "ancestral", "raid armor"]
+            },
+            {
+                "Item": "Ancestral robe bottom",
+                "ConditionalDropRate": 23,
+                "Types": ["raid", "ancestral", "raid armor"]
+            },
+            {
+                "Item": "Elder maul",
+                "ConditionalDropRate": 34.5,
+                "Types": ["raid", "mega rare"]
+            },
+            {
+                "Item": "Kodai insignia",
+                "ConditionalDropRate": 34.5,
+                "Types": ["raid", "mega rare"]
+            },
+            {
+                "Item": "Twisted bow",
+                "ConditionalDropRate": 34.5,
+                "Types": ["raid", "mega rare"]
+            },
+            {
+                "Item": "Olmlet",
+                "ConditionalDropRate": 53,
+                "Types": ["pet"]
+            }
+        ]
+    },
+    {
+        "Boss": "Chambers of Xeric Challenge Mode",
+        "Categories": ["raid"],
+        "EHB": 2.4,
+        "Drops": [
+            {
+                "Item": "Twisted Ancestral Colour Kit",
+                "DropRate": 75,
+                "Types": ["raid"]
+            },
+            {
+                "Item": "Metamorphic dust",
+                "DropRate": 400,
+                "Types": ["pet"]
+            }
+        ]
+    },
+    {
+        "Boss": "Theatre of Blood",
+        "Categories": ["raid"],
+        "EHB": 2.9,
+        "PurpleChestRate": 36,
+        "Drops": [
+            {
+                "Item": "Avernic defender hilt",
+                "ConditionalDropRate": 2.375,
+                "Types": ["raid"]
+            },
+            {
+                "Item": "Ghrazi rapier",
+                "ConditionalDropRate": 9.5,
+                "Types": ["raid"]
+            },
+            {
+                "Item": "Sanguinesti staff",
+                "ConditionalDropRate": 9.5,
+                "Types": ["raid"]
+            },
+            {
+                "Item": "Justiciar faceguard",
+                "ConditionalDropRate": 9.5,
+                "Types": ["raid", "justiciar", "raid armor"]
+            },
+            {
+                "Item": "Justiciar chestguard",
+                "ConditionalDropRate": 9.5,
+                "Types": ["raid", "justiciar", "raid armor"]
+            },
+            {
+                "Item": "Justiciar legguards",
+                "ConditionalDropRate": 9.5,
+                "Types": ["raid", "justiciar", "raid armor"]
+            },
+            {
+                "Item": "Scythe of vitur",
+                "ConditionalDropRate": 19,
+                "Types": ["raid", "mega rare"]
+            },
+            {
+                "Item": "Lil Zik",
+                "DropRate": 650,
+                "Types": ["pet"]
+            }
+        ]
+    },
+    {
+        "Boss": "Hard Mode Theatre Of Blood",
+        "Categories": ["raid"],
+        "EHB": 2.5,
+        "Drops": [
+            {
+                "Item": "Lil' Zik",
+                "DropRate": 500,
+                "Types": ["pet"]
+            },
+            {
+                "Item": "Sanguine Dust",
+                "DropRate": 275,
+                "Types": ["raid"]
+            },
+            {
+                "Item": "Sanguine Ornament Kit",
+                "DropRate": 150,
+                "Types": ["raid"]
+            },
+            {
+                "Item": "Holy Ornament Kit",
+                "DropRate": 100,
+                "Types": ["raid"]
+            }
+        ]
+    },
+    {
+        "Boss": "Tombs of Amascut",
+        "Categories": ["raid"],
+        "EHB": 1.5,
+        "PurpleChestRate": 12,
+        "Drops": [
+            {
+                "Item": "Osmumten's fang",
+                "ConditionalDropRate": 3.429,
+                "Types": ["raid"]
+            },
+            {
+                "Item": "Tumeken's shadow",
+                "ConditionalDropRate": 24,
+                "Types": ["raid"]
+            },
+            {
+                "Item": "Elidinis' ward",
+                "ConditionalDropRate": 8,
+                "Types": ["raid"]
+            },
+            {
+                "Item": "Lightbearer",
+                "ConditionalDropRate": 3.429,
+                "Types": ["raid"]
+            },
+            {
+                "Item": "Masori mask",
+                "ConditionalDropRate": 12,
+                "Types": ["raid", "masori", "raid armor"]
+            },
+            {
+                "Item": "Masori body",
+                "ConditionalDropRate": 12,
+                "Types": ["raid", "masori", "raid armor"]
+            },
+            {
+                "Item": "Masori chaps",
+                "ConditionalDropRate": 12,
+                "Types": ["raid", "masori", "raid armor"]
+            },
+            {
+                "Item": "Tumeken's guardian",
+                "DropRate": 310,
+                "Types": ["pet", "mega rare"]
+            }
+        ]
+    }
+]

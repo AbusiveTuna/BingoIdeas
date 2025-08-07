@@ -1,0 +1,264 @@
+[
+    {
+        "Boss": "Tormented Demons",
+        "Categories": ["demons"],
+        "EHB": 55,
+        "Drops": [
+            {
+                "Item": "Burning Claw",
+                "DropRate": 501
+            },
+            {
+                "Item": "Tormented synapse",
+                "DropRate": 500
+            }
+        ]
+    },
+    {
+        "Boss": "Demonic gorilla",
+        "Categories": ["demons"],
+        "EHB": 70,
+        "Drops": [
+            {
+                "Item": "Zenyte Shard",
+                "DropRate": 300,
+                "Types": ["torture"]
+            },
+            {
+                "Item": "Ballista limbs",
+                "DropRate": 500,
+                "Types": ["ballista"]
+            },
+            {
+                "Item": "Ballista spring",
+                "DropRate": 500,
+                "Types": ["ballista"]
+            },
+            {
+                "Item": "Light frame",
+                "DropRate": 750,
+                "Types": ["ballista"]
+            },
+            {
+                "Item": "Heavy frame",
+                "DropRate": 1500,
+                "Types": ["ballista"]
+            },
+            {
+                "Item": "Monkey tail",
+                "DropRate": 1500,
+                "Types": ["ballista"]
+            }
+        ]
+    },
+    {
+        "Boss": "Elder Chaos Druids",
+        "Categories": ["Wilderness"],
+        "EHB": 120,
+        "Drops": [
+            {
+                "Item": "Elder chaos hood",
+                "DropRate": 1419
+            },
+            {
+                "Item": "Elder chaos robe",
+                "DropRate": 1419
+            },
+            {
+                "Item": "Elder chaos top",
+                "DropRate": 1419
+            }
+        ]
+    },
+    {
+        "Boss": "Revenants",
+        "Categories": ["Wilderness"],
+        "EHB": 150,
+        "Drops": [
+            {
+                "Item": "Amulet of avarice",
+                "DropRate": 7334
+            },
+            {
+                "Item": "Craw's bow",
+                "DropRate": 14667
+            },
+            {
+                "Item": "Thammaron's sceptre",
+                "DropRate": 14667
+            },
+            {
+                "Item": "Viggora's chainmace",
+                "DropRate": 14667
+            }
+        ]
+    },
+    {
+        "Boss": "Basilisks",
+        "Categories": ["slayer mob"],
+        "EHB": 50,
+        "Drops": [
+            {
+                "Item": "Basilisk jaw",
+                "DropRate": 1000
+            },
+            {
+                "Item": "Basilisk Head",
+                "DropRate": 1000
+            }
+        ]
+    },
+    {
+        "Boss": "Vyres",
+        "Categories": ["slayer mob"],
+        "EHB": 50,
+        "Drops": [
+            {
+                "Item": "Blood Shard",
+                "DropRate": 1500
+            }
+        ]
+    },
+    {
+        "Boss": "Araxytes",
+        "Categories": ["slayer mob"],
+        "EHB": 150,
+        "Drops": [
+            {
+                "Item": "Aranea Boots",
+                "DropRate": 800
+            }
+        ]
+    },
+    {
+        "Boss": "Wyrms",
+        "Categories": ["slayer mob"],
+        "EHB": 150,
+        "Drops": [
+            {
+                "Item": "Dragon sword",
+                "DropRate": 2000
+            },
+            {
+                "Item": "Dragon Harpoon",
+                "DropRate": 2000
+            },
+            {
+                "Item": "Dragon knife",
+                "DropRate": 2000
+            },
+            {
+                "Item": "Dragon thrownaxe",
+                "DropRate": 2000
+            }
+        ]
+    },
+    {
+        "Boss": "Cave Horrors",
+        "Categories": ["slayer mob"],
+        "EHB": 150,
+        "Drops": [
+            {
+                "Item": "Black Mask",
+                "DropRate": 512
+            }
+        ]
+    },
+    {
+        "Boss": "Abyssal Demons",
+        "Categories": ["slayer mob", "demons"],
+        "EHB": 150,
+        "Drops": [
+            {
+                "Item": "Abyssal Whip",
+                "DropRate": 512
+            }
+        ]
+    },
+    {
+        "Boss": "Kurasks",
+        "Categories": ["slayer mob"],
+        "EHB": 150,
+        "Drops": [
+            {
+                "Item": "Kurask Head",
+                "DropRate": 3000
+            }
+        ]
+    },
+    {
+        "Boss": "Wyverns",
+        "Categories": ["dragons"],
+        "EHB": 60,
+        "Drops": [
+            {
+                "Item": "Wyvern Visage",
+                "DropRate": 12000
+            },
+            {
+                "Item": "Granite boots",
+                "DropRate": 2560
+            },
+            {
+                "Item": "Granite Sword",
+                "DropRate": 512
+            }
+        ]
+    },
+    {
+        "Boss": "Rune Dragon",
+        "Categories": ["dragons"],
+        "EHB": 50,
+        "Drops": [
+            {
+                "Item": "Dragon Limbs",
+                "DropRate": 800
+            },
+            {
+                "Item": "Dragon metal lump",
+                "DropRate": 5000
+            },
+            {
+                "Item": "Dragon Visage",
+                "DropRate": 8000,
+                "Types": ["visage"]
+            }
+        ]
+    },
+    {
+        "Boss": "Adamant Dragons",
+        "Categories": ["dragons"],
+        "EHB": 60,
+        "Drops": [
+            {
+                "Item": "Dragon Limbs",
+                "DropRate": 1000
+            },
+            {
+                "Item": "Dragon metal slice",
+                "DropRate": 5000
+            },
+            {
+                "Item": "Dragon Visage",
+                "DropRate": 9000,
+                "Types": ["visage"]
+            }
+        ]
+    },
+    {
+        "Boss": "Mithril Dragons",
+        "Categories": ["dragons"],
+        "EHB": 60,
+        "Drops": [
+            {
+                "Item": "Dragon Full Helm",
+                "DropRate": 8192
+            },
+            {
+                "Item": "Dragon Visage",
+                "DropRate": 10000,
+                "Types": ["visage"]
+            }
+        ]
+    }
+]
