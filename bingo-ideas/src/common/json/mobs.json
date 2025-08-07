@@ -1,7 +1,7 @@
 [
     {
         "Boss": "Tormented Demons",
-        "Categories": ["demons"],
+        "Categories": ["Demons"],
         "EHB": 55,
         "Drops": [
             {
@@ -16,38 +16,38 @@
     },
     {
         "Boss": "Demonic gorilla",
-        "Categories": ["demons"],
+        "Categories": ["Demons"],
         "EHB": 70,
         "Drops": [
             {
                 "Item": "Zenyte Shard",
                 "DropRate": 300,
-                "Types": ["torture"]
+                "Types": ["Torture"]
             },
             {
                 "Item": "Ballista limbs",
                 "DropRate": 500,
-                "Types": ["ballista"]
+                "Types": ["Ballista"]
             },
             {
                 "Item": "Ballista spring",
                 "DropRate": 500,
-                "Types": ["ballista"]
+                "Types": ["Ballista"]
             },
             {
                 "Item": "Light frame",
                 "DropRate": 750,
-                "Types": ["ballista"]
+                "Types": ["Ballista"]
             },
             {
                 "Item": "Heavy frame",
                 "DropRate": 1500,
-                "Types": ["ballista"]
+                "Types": ["Ballista"]
             },
             {
                 "Item": "Monkey tail",
                 "DropRate": 1500,
-                "Types": ["ballista"]
+                "Types": ["Ballista"]
             }
         ]
     },
@@ -95,7 +95,7 @@
     },
     {
         "Boss": "Basilisks",
-        "Categories": ["slayer mob"],
+        "Categories": ["Slayer Mob"],
         "EHB": 50,
         "Drops": [
             {
@@ -110,7 +110,7 @@
     },
     {
         "Boss": "Vyres",
-        "Categories": ["slayer mob"],
+        "Categories": ["Slayer Mob"],
         "EHB": 50,
         "Drops": [
             {
@@ -121,7 +121,7 @@
     },
     {
         "Boss": "Araxytes",
-        "Categories": ["slayer mob"],
+        "Categories": ["Slayer Mob"],
         "EHB": 150,
         "Drops": [
             {
@@ -132,7 +132,7 @@
     },
     {
         "Boss": "Wyrms",
-        "Categories": ["slayer mob"],
+        "Categories": ["Slayer Mob"],
         "EHB": 150,
         "Drops": [
             {
@@ -155,7 +155,7 @@
     },
     {
         "Boss": "Cave Horrors",
-        "Categories": ["slayer mob"],
+        "Categories": ["Slayer Mob"],
         "EHB": 150,
         "Drops": [
             {
@@ -166,7 +166,7 @@
     },
     {
         "Boss": "Abyssal Demons",
-        "Categories": ["slayer mob", "demons"],
+        "Categories": ["Slayer Mob", "Demons"],
         "EHB": 150,
         "Drops": [
             {
@@ -177,7 +177,7 @@
     },
     {
         "Boss": "Kurasks",
-        "Categories": ["slayer mob"],
+        "Categories": ["Slayer Mob"],
         "EHB": 150,
         "Drops": [
             {
@@ -188,7 +188,7 @@
     },
     {
         "Boss": "Wyverns",
-        "Categories": ["dragons"],
+        "Categories": ["Dragons"],
         "EHB": 60,
         "Drops": [
             {
@@ -207,7 +207,7 @@
     },
     {
         "Boss": "Rune Dragon",
-        "Categories": ["dragons"],
+        "Categories": ["Dragons"],
         "EHB": 50,
         "Drops": [
             {
@@ -221,13 +221,13 @@
             {
                 "Item": "Dragon Visage",
                 "DropRate": 8000,
-                "Types": ["visage"]
+                "Types": ["Visage"]
             }
         ]
     },
     {
         "Boss": "Adamant Dragons",
-        "Categories": ["dragons"],
+        "Categories": ["Dragons"],
         "EHB": 60,
         "Drops": [
             {
@@ -241,13 +241,13 @@
             {
                 "Item": "Dragon Visage",
                 "DropRate": 9000,
-                "Types": ["visage"]
+                "Types": ["Visage"]
             }
         ]
     },
     {
         "Boss": "Mithril Dragons",
-        "Categories": ["dragons"],
+        "Categories": ["Dragons"],
         "EHB": 60,
         "Drops": [
             {
@@ -257,7 +257,7 @@
             {
                 "Item": "Dragon Visage",
                 "DropRate": 10000,
-                "Types": ["visage"]
+                "Types": ["Visage"]
             }
         ]
     }

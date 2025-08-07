@@ -1,6 +1,6 @@
 [
     {
-        "Era": "Runescape 2",
+        "Era": "The Runescape 2 Saga",
         "Start": "September 24th 2002",
         "End": "February 16th 2013",
         "Content": [
@@ -13,6 +13,10 @@
             "Release Date": "Sept. 7, 2004"
             },
             {
+            "Boss": "Abyssal Demons",
+            "Release Date": "Jan 26 2005"
+            },
+            {
             "Boss": "Barrows",
             "Release Date": "May 9, 2005"
             },
@@ -21,7 +25,19 @@
             "Release Date": "Oct. 4, 2005"
             },
             {
-            "Boss": "Dagganoth Kings",
+            "Boss": "Kurasks",
+            "Release Date": "January 26 2005"
+            },
+            {
+            "Boss": "Dagannoth Prime",
+            "Release Date": "Nov. 7, 2005"
+            },
+            {
+            "Boss": "Dagannoth Rex",
+            "Release Date": "Nov. 7, 2005"
+            },
+            {
+            "Boss": "Dagannoth Supreme",
             "Release Date": "Nov. 7, 2005"
             },
             {
@@ -30,10 +46,30 @@
             },
             {
             "Boss": "Giant Mole",
-            "Release Date": "Mar. 7, 2006"
+            "Release Date": "March 7, 2006"
             },
             {
-            "Boss": "Godwars",
+            "Boss": "Cave Horrors",
+            "Release Date": "July 4 2006"
+            },
+            {
+            "Boss": "Mithril Dragons",
+            "Release Date": "July 3 2007"
+            },
+            {
+            "Boss": "Commander Zilyana",
+            "Release Date": "Aug. 28, 2007"
+            },
+            {
+            "Boss": "General Graardor",
+            "Release Date": "Aug. 28, 2007"
+            },
+            {
+            "Boss": "Kree'Arra",
+            "Release Date": "Aug. 28, 2007"
+            },
+            {
+            "Boss": "K'ril Tsutsaroth",
             "Release Date": "Aug. 28, 2007"
             }
             
@@ -46,30 +82,34 @@
         "Content": [
             {
             "Boss": "Scorpia",
-            "Release Date": "Mar. 13, 2014"
+            "Release Date": "March 13, 2014"
             },
             {
             "Boss": "Crazy Archaeologist",
-            "Release Date": "Mar. 13, 2014"
+            "Release Date": "March 13, 2014"
             },
             {
             "Boss": "Chaos Fanatic",
-            "Release Date": "Mar. 13, 2014"
+            "Release Date": "March 13, 2014"
             },
             {
             "Boss": "Vetion",
-            "Release Date": "Mar. 13, 2014"
+            "Release Date": "March 13, 2014"
             },
             {
             "Boss": "Venenatis",
-            "Release Date": "Mar. 13, 2014"
+            "Release Date": "March 13, 2014"
             },
             {
             "Boss": "Callisto",
-            "Release Date": "Mar. 13, 2014"
+            "Release Date": "March 13, 2014"
             },
             {
-            "Boss": "Thermy",
+            "Boss": "Elder Chaos Druids",
+            "Release Date": "March 13, 2014"
+            },
+            {
+            "Boss": "Thermonuclear Smoke Devil",
             "Release Date": "Apr. 10, 2014"
             },
             {
@@ -97,7 +137,11 @@
             },
             {
             "Boss": "Abyssal Sire",
-            "Release Date": "Oct. 1, 2015"
+            "Release Date": "Oct 1 2015"
+            },
+            {
+            "Boss": "Demonic gorilla",
+            "Release Date": "May 6 2016"
             },
             {
             "Boss": "Skotizo",
@@ -114,7 +158,7 @@
         ]
     },
     {
-        "Era": "The end game revolution",
+        "Era": "The End Game Epoch",
         "Start": "January 5th 2017",
         "End": "July 25th 2019",
         "Content": [
@@ -131,7 +175,23 @@
             "Release Date": "Sept 7, 2017"
             },
             {
+            "Boss": "Wyverns",
+            "Release Date": "Sept 7, 2017"
+            },
+            {
+            "Boss": "Revenants",
+            "Release Date": "November 23 2017"
+            },
+            {
             "Boss": "Vorkath",
+            "Release Date": "Jan. 4, 2018"
+            },
+            {
+            "Boss": "Rune Dragon",
+            "Release Date": "Jan. 4, 2018"
+            },
+            {
+            "Boss": "Adamant Dragons",
             "Release Date": "Jan. 4, 2018"
             },
             {
@@ -139,15 +199,27 @@
             "Release Date": "Feb. 22, 2018"
             },
             {
+            "Boss": "Chambers of Xeric Challenge Mode",
+            "Release Date": "April 18 2018"
+            },
+            {
             "Boss": "Bryophyta",
             "Release Date": "May 3, 2018"
+            },
+            {
+            "Boss": "Vyres",
+            "Release Date": "May 24, 2018"
             },
             {
             "Boss": "Theatre of Blood",
             "Release Date": "June 7, 2018"
             },
             {
-            "Boss": "Hydra",
+            "Boss": "Alchemical Hydra",
+            "Release Date": "Jan. 10, 2019"
+            },
+            {
+            "Boss": "Wyrms",
             "Release Date": "Jan. 10, 2019"
             },
             {
@@ -178,15 +250,27 @@
             "Release Date": "July 25, 2019"
             },
             {
+            "Boss": "The Corrupted Gauntlet",
+            "Release Date": "July 25, 2019"
+            },
+            {
+            "Boss": "Basilisks",
+            "Release Date": "September 26 2019"
+            },
+            {
             "Boss": "The Nightmare",
             "Release Date": "Feb. 6, 2020"
             },
             {
             "Boss": "Tempoross",
-            "Release Date": "Mar. 24, 2021"
+            "Release Date": "March 24, 2021"
             },
             {
             "Boss": "Phosani's Nightmare",
+            "Release Date": "June 30, 2021"
+            },
+            {
+            "Boss": "Hard Mode Theatre Of Blood",
             "Release Date": "June 30, 2021"
             },
             {
@@ -198,54 +282,94 @@
     {
         "Era": "The Golden Era",
         "Start": "August 24th 2022",
-        "End": "April 9th 2024",
+        "End": "September 25 2024",
         "Content": [
             {
             "Boss": "Tombs of Amascut",
             "Release Date": "Aug 24, 2022"
             },
             {
-            "Boss": "",
-            "Release Date": ""
+            "Boss": "Phantom Muspah",
+            "Release Date": "Jan 11 2023"
             },
             {
-            "Boss": "",
-            "Release Date": ""
+            "Boss": "Artio",
+            "Release Date": "Jan 25 2023"
             },
             {
-            "Boss": "",
-            "Release Date": ""
+            "Boss": "Calvarion",
+            "Release Date": "Jan 25 2023"
             },
             {
-            "Boss": "",
-            "Release Date": ""
+            "Boss": "Spindel",
+            "Release Date": "Jan 25 2023"
+            },
+            {
+            "Boss": "Duke Sucellus",
+            "Release Date": "July 26 2023"
+            },
+            {
+            "Boss": "The Leviathan",
+            "Release Date": "July 26 2023"
+            },
+            {
+            "Boss": "The Whisperer",
+            "Release Date": "July 26 2023"
+            },
+            {
+            "Boss": "Vardorvis",
+            "Release Date": "July 26 2023"
+            },
+            {
+            "Boss": "Scurrius",
+            "Release Date": "Jan 24 2024"
+            },
+            {
+            "Boss": "Lunar Chests",
+            "Release Date": "Mar 20 2024"
+            },
+            {
+            "Boss": "Sol Heredit",
+            "Release Date": "Mar 20 2024"
+            },
+            {
+            "Boss": "Tormented Demons",
+            "Release Date": "July 10 2024"
+            },
+            {
+            "Boss": "Araxxor",
+            "Release Date": "Aug 28 2024"
+            },
+            {
+            "Boss": "Araxytes",
+            "Release Date": "Aug 28 2024"
             }
         ]
     },
     {
         "Era": "The Platinum Era",
-        "Start": "April 9th 2024",
+        "Start": "September 25 2024",
         "End": "",
         "Content": [
             {
-            "Boss": "",
-            "Release Date": ""
+            "Boss": "The Hueycoatl",
+            "Release Date": "September 25 2024"
             },
             {
-            "Boss": "",
-            "Release Date": ""
+            "Boss": "Amoxliatl",
+            "Release Date": "September 25 2024"
             },
             {
-            "Boss": "",
-            "Release Date": ""
+            "Boss": "The Royal Titans",
+            "Release Date": "February 5 2025"
             },
             {
-            "Boss": "",
-            "Release Date": ""
+            "Boss": "Yama",
+            "Release Date": "May 14 2025"
             },
             {
-            "Boss": "",
-            "Release Date": ""
+            "Boss": "Doom of Mokhaiotl",
+            "Release Date": "July 23 2025"
             }
         ]
     }

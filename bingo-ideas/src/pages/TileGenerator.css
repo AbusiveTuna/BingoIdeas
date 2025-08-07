@@ -1,0 +1,61 @@
+/* base */
+.tileGen-wrapper {
+  padding: 16px;
+  background: #201e1c;          /* OSRS panel */
+  color: #e0d7c6;
+  font-family: Arial, sans-serif;
+}
+
+/* section titles */
+.tileGen-sectionTitle {
+  margin: 18px 0 6px;
+  color: #ffd700;               /* gold */
+  font-size: 1.1rem;
+}
+
+/* button rows */
+.tileGen-btnRow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 12px;
+}
+
+/* buttons */
+.tileGen-btn {
+  background: #3b372f;
+  color: #e0d7c6;
+  border: 2px solid #7a5c28;
+  border-radius: 4px;
+  padding: 4px 10px;
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+
+.tileGen-btn:hover,
+.tileGen-btn.active {
+  background: #564632;
+  color: #ffd700;
+}
+
+/* table */
+.tileGen-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+}
+
+.tileGen-table th,
+.tileGen-table td {
+  border: 1px solid #564632;
+  padding: 4px 6px;
+}
+
+.tileGen-table th {
+  background: #3b372f;
+  color: #ffd700;
+}
+
+.tileGen-table tr:nth-child(even) {
+  background: #26221f;
+}
