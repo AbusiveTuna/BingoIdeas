@@ -1,0 +1,130 @@
+[
+    {
+        "Id": "1",
+        "Name": "Any Yamaers?",
+        "Description": "Obtain any piece of Oathplate Armor",
+        "LongDescription": "Obtain any piece of Oathplate Armor\nCan not be crafted, can not be from a contract.",
+        "Image": "/osrs_icons/Items/Oathplate_Chest.webp",
+        "Goal": 1,
+        "Type": "Medium"
+    },
+    {
+        "Id": "2",
+        "Name": "I FKING LOVE COMMON PURPLES",
+        "Description": "Obtain the most common purple from any raid",
+        "LongDescription": "CoX: Prayer Scrolls\nToB: Avernic\nToA: Lightbearer or Fang",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 1,
+        "Type": "Medium"
+    },
+    {
+        "Id": "3",
+        "Name": "I'm getting an Eye of Ay-ak-ak-ak-ak-ak-ak-ak",
+        "Description": "You outta know by now.",
+        "LongDescription": "Obtain the Eye of Ayak from Doom",
+        "Image": "/osrs_icons/Items/eye_of_ayak.webp",
+        "Goal": 1,
+        "Type": "hard"
+    },
+    {
+        "Id": "4",
+        "Name": "Making early game tiles is hard",
+        "Description": "Obtain a unique drop from each of these early game bosses!",
+        "LongDescription": "Amoxliatl - Moxi, Pendant of ates, or Glacial Temotli\nBarrows (No bolt racks)\nHueycoatl - Huberte, Wand, Tome, Hide, Seeds, or Pages\nMoons of Peril (No Darts)\nRoyal Titans (Anything but Pages)",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 5,
+        "Type": "easy"
+    },
+    {
+        "Id": 5,
+        "Name": "It's called a passive tile for a reason",
+        "Description": "Obtain a boss pet with a drop rate of 1/4000 or more",
+        "LongDescription": "Includes: DKS, Corp, GWD bosses (except Nex), WT, Temp, Zulrah",
+        "Image": "/osrs_icons/bosses/zulrah.webp",
+        "Goal": 1,
+        "Shots": 2,
+        "Type": "passive"
+    },
+    {
+        "Id": "6",
+        "Name": "The Avatar",
+        "Description": "Obtain the 4 Quartz from DT2 bosses",
+        "LongDescription": "Requires Ice Quartz, Smoke Quartz, Shadow Quartz, and Blood Quartz",
+        "Image": "/osrs_icons/Items/ice_quartz.webp",
+        "Goal": 4,
+        "Type": "medium"
+    },
+    {
+        "Id": "7",
+        "Name": "The ZCB Pipeline",
+        "Description": "Obtain an Armadyl crossbow",
+        "LongDescription": "Obtain an Armadyl crossbow",
+        "Image": "/osrs_icons/Items/acb.png",
+        "Goal": 1,
+        "Type": "medium"
+    },
+
+
+
+
+
+
+{
+    "Id": "x",
+    "Name": "A sqrd tile",
+    "Description": "Obtain a dragon mask from a hard/elite clue",
+    "LongDescription": "Obtain any dragon mask from a hard or elite clue",
+    "Image": "/osrs_icons/Items/dragon_mask.png",
+    "Goal": 1,
+    "Type": "medium"
+  },
+{
+    "Id": "x",
+    "Name": "More new content!",
+    "Description": "Obtain two uniques from Yama/Doom of Mocha",
+    "LongDescription": "Any uniques",
+    "Image": "/osrs_icons/Items/eye_of_ayak.webp",
+    "Goal": 2,
+    "Type": "medium"
+  },
+
+    {
+    "Id": "x",
+    "Name": "Defense Drainer",
+    "Description": "Obtain a Dragon Warhammer, Bandos Godsword, Ralos, or Eldermaul",
+    "LongDescription": "BGS only requires the hilt",
+    "Image": "/osrs_icons/Items/ralos.webp",
+    "Goal": 1,
+    "Type": "medium"
+  },
+    {
+        "Id": "x",
+        "Name": "Why do you ask for a tile you know you'll hate?",
+        "Description": "Obtain a Sigil from Corp",
+        "LongDescription": "Obtain either an Arcane, Elysian, or Spectral Sigil.",
+        "Image": "/osrs_icons/Bosses/Corporeal Beast.png",
+        "Goal": 1,
+        "Shots": 2,
+        "Type": "hard"
+    },
+    {
+        "Id": "x",
+        "Name": "Valamore Scavenger Hunt",
+        "Description": "Obtain 3 items from Valamore bosses",
+        "LongDescription": "Sol Heredit:\nTonalztics of Ralos\nS'mol heredit\nAny sunfire armor (only counts once, MUST KILL SOL to count)\n\nHueycoatl:\nDragon Hunter Wand\nHubert\n\nAmoxliatl\nMoxi\n\nDoom of Mokhaiotl:\nAvernic Treads\nEye of Ayak\nMokhaiotl Cloth\nDom",
+        "Image": "/osrs_icons/Bosses/Sol Heredit.png",
+        "Goal": 3,
+        "Type": "medium"
+    },
+    {
+        "Id": "x",
+        "Name": "Raise Slaymebb from the dead",
+        "Description": "Obtain any of the listed uniques from Phosani",
+        "LongDescription": "Inquisitor's Great Helm\nInquisitor's Hauberk\nInquisitor's Plateskirt\nInquisitor's Mace\nNightmare Staff\nEldritch Orb\nHarmonised Orb\nVolatile Orb",
+        "Image": "/osrs_icons/Bosses/Phosanis Nightmare.png",
+        "Goal": 1,
+        "Shots": 2,
+        "Type": "hard"
+    },
+    {}
+]
