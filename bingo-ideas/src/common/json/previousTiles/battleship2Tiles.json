@@ -47,6 +47,595 @@
     },
     {
         "Id": "6",
+        "Name": "Ancients BIS",
+        "Description": "Obtain a piece of Virtus armor from any DT2 boss",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/replaceme.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "7",
+        "Name": "The ZCB Pipeline",
+        "Description": "Obtain an Armadyl crossbow",
+        "LongDescription": "Obtain an Armadyl crossbow",
+        "Image": "/osrs_icons/Items/acb.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "8",
+        "Name": "Swamp Invasion",
+        "Description": "Complete a CM or 400+ Lvl ToA with only gear from Barrows",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "9",
+        "Name": "ToB Great",
+        "Description": "Obtain any purple from the Theatre of Blood",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "10",
+        "Name": "Is going for this tile throwing, or genius?",
+        "Description": "Obtain 1 of the following pets",
+        "LongDescription": "Huberte, Moxi, Mole, Phoenix, Abyssal Protector (GOTR), Tiny Tempor",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 1,
+        "Shots": 2,
+        "Type": "long"
+    },
+    {
+        "Id": "11",
+        "Name": "Vaugley disguised sailing prep!",
+        "Description": "Obtain 10m smithing xp as a team",
+        "LongDescription": "I for one, will be smelting a bunch of random ass bars.",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "12",
+        "Name": "ToA _ _ _",
+        "Description": "Obtain two purples from ToA",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 2,
+        "Type": "medium"
+    },
+    {
+        "Id": "13",
+        "Name": "TUNA NEVER LEARNS - FIRST TIME INFERNAL CAPE TILE",
+        "Description": "No not really. Obtain 1 fire cape, 1 infernal cape, and 1 quiver as a team.",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "14",
+        "Name": "Crystal Legs",
+        "Description": "Obtain 2 Crystal Armour Seeds as a team",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "15",
+        "Name": "Obtain Gilded or 3rd Age from a clue casket",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "16",
+        "Name": "Obtain 4 Venator Shards",
+        "Description": "Obtain 4 Venator Shards",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 4,
+        "Type": "medium"
+    },
+    {
+        "Id": "17",
+        "Name": "Obtain a purple from Chambers of Xeric",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "18",
+        "Name": "Obtain a Tome",
+        "Description": "Tome of Fire, Tome of Water, or Tome of Earth.",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "19",
+        "Name": "Get an Araxyte fang",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "20",
+        "Name": "Obtain any Mega Rare from a raid",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 1,
+        "Shots": 2,
+        "Type": "medium"
+    },
+    {
+        "Id": "21",
+        "Name": "Obtain any Nex Unique",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "22",
+        "Name": "Obtain two unique Jars",
+        "Description": "Like the boss jars. Not jar jars. Or imp jars. Like the boss jars.",
+        "LongDescription": "JARS",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 2,
+        "Type": "medium"
+    },
+    {
+        "Id": "23",
+        "Name": "THIS TILE WILL CONTINUE TO BE IN EVERY BINGO UNTIL TUNA IS DEAD",
+        "Description": "Receive the Ham Joint or Flared Trousers from an easy clue scroll",
+        "LongDescription": "or tuna greenlogs easy clues",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "24",
+        "Name": "Obtain 3 Unsired",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "25",
+        "Name": "Obtain 3 Sunfire Fanatic Armour pieces",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "26",
+        "Name": "Obtain 2 uniques from zulrah",
+        "Description": "Includes everything except for Scales and onyx",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 2,
+        "Type": "medium"
+    },
+    {
+        "Id": "27",
+        "Name": "Obtain the Dragon Hunter Wand OR Hydra's Claw",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "28",
+        "Name": "The Raevid Tile - Obtain the burning claws as a team",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "29",
+        "Name": "Obtain a Black tourmaline core from GGs",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "30",
+        "Name": "Receive three purples from Tombs of Amascut",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "31",
+        "Name": "Receive two purples from Theatre of Blood",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "32",
+        "Name": "Obtain any of the three Revenant weapons",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "33",
+        "Name": "Obtain any unique from Vorkath (Excluding Vorkath's Head)",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "34",
+        "Name": "Obtain the Holy elixir from Corp",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "35",
+        "Name": "Four Guild Hunter Outfit Pieces or Quetzin",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 4,
+        "Type": "medium"
+    },
+    {
+        "Id": "36",
+        "Name": "One Rangers - Obtain a pair of Ranger Boots",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "37",
+        "Name": "Classic Bosses, New Items - Obtain a Dragon Pickaxe from KQ or KBD",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "38",
+        "Name": "Obtain a Twisted ancestral colour kit",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "39",
+        "Name": "Obtain a HMT unique",
+        "Description": "",
+        "LongDescription": "Includes Sanguine Dust, Holy Ornament Kit, and Sanguine Ornament Kit",
+        "Image": "/osrs_icons/Items/replaceMe.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "40",
+        "Name": "Raise Slaymebb from the dead",
+        "Description": "Obtain any of the listed uniques from Phosani",
+        "LongDescription": "Inquisitor's Great Helm\nInquisitor's Hauberk\nInquisitor's Plateskirt\nInquisitor's Mace\nNightmare Staff\nEldritch Orb\nHarmonised Orb\nVolatile Orb",
+        "Image": "/osrs_icons/Bosses/Phosanis Nightmare.png",
+        "Goal": 1,
+        "Shots": 2,
+        "Type": "hard"
+    },
+    {
+        "Id": "41",
+        "Name": "More new content!",
+        "Description": "Obtain two uniques from Yama/Doom of Mocha",
+        "LongDescription": "Any uniques",
+        "Image": "/osrs_icons/Items/eye_of_ayak.webp",
+        "Goal": 2,
+        "Type": "medium"
+    },
+    {
+        "Id": "42",
+        "Name": "Raid Offhands: Obtain a Elidinis' Ward, Avernic Defender Hilt, or Twisted Buckler",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/eye_of_ayak.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "43",
+        "Name": "Obtain the Dragon Full Helm",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/eye_of_ayak.webp",
+        "Goal": 1,
+        "Shots": 2,
+        "Type": "medium"
+    },
+    {
+        "Id": "44",
+        "Name": "Complete a Godsword blade",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/eye_of_ayak.webp",
+        "Goal": 3,
+        "Type": "medium"
+    },
+    {
+        "Id": "45",
+        "Name": "Obtain the Hill Giant Club or Bryophyta's essence",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/eye_of_ayak.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "46",
+        "Name": "Obtain a skilling pet",
+        "Description": "",
+        "LongDescription": "Players with 200m xp in a skill are not eligible for this tile.",
+        "Image": "/osrs_icons/Items/eye_of_ayak.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "47",
+        "Name": "Obtain the Odium ward as a team",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/eye_of_ayak.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "48",
+        "Name": "Obtain 4 Sarachnis Cudgels",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/eye_of_ayak.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "49",
+        "Name": "Obtain 2 Chromium Ingots",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/eye_of_ayak.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "50",
+        "Name": "Obtain a piece of Torva",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/eye_of_ayak.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "51",
+        "Name": "Obtain any unique from Zalcano",
+        "Description": "",
+        "LongDescription": "Includes Crystal tool seed, Zalcano Shard, Smolcano, and Uncut onyx",
+        "Image": "/osrs_icons/Items/eye_of_ayak.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "52",
+        "Name": "Obtain 2 Unique Crystals or Stones from Cerberus",
+        "Description": "",
+        "LongDescription": "Includes: Eternal, Pegasian, Primordial, Smouldering Stone. Must be unique.",
+        "Image": "/osrs_icons/Items/eye_of_ayak.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "53",
+        "Name": "Obtain a duplicate Thread of Elidinis",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/eye_of_ayak.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "54",
+        "Name": "Slayer Bosses",
+        "Description": "Obtain two unique Slayer Boss items listed",
+        "LongDescription": "Obtain two unique Slayer Boss items listed\nHydra's Claw, Hydra's leather\nPrimordial Crystal\nBlack tourmaline core\nKraken tentacle\nDragon chainbody(From Thermy)\nAraxyte fang\nAbby Dagger (from sire)\nSire Jar Thingy",
+        "Image": "/osrs_icons/Skills/Slayer.png",
+        "Goal": 2,
+        "Type": "medium"
+    },
+    {
+        "Id": "55",
+        "Name": "Raid Armor",
+        "Description": "Obtain any Ancestral, Justi, or Masori from a raid",
+        "LongDescription": "Any Anc, Justi, or Masori piece count.\nDoes not require the component upgrade (Ex: Masori Mask does not require an Armadyl Helm)",
+        "Image": "/osrs_icons/Theatre_Of_Blood/Justiciar_Faceguard.webp",
+        "Goal": 1,
+        "Type": "hard"
+    },
+    {
+        "Id": "56",
+        "Name": "Clue Items!",
+        "Description": "Obtain 5 unique Items required for Clue Scrolls",
+        "LongDescription": "Obtain 5 unique Items required for Clue Scrolls\nAbyssal whip (Only from Sire)\nAny Sunfire Armor (Can only count once)\nArmadyl Helm\nBandos Boots\nBandos Cloak\nBandos Hilt\nBlack Dragon Mask\nBob's Shirt\nBryo's Essence\nDragon Pickaxe\nDragon 2h Sword\nDragon Chainbody\nFlared Trousers\nHueycoatl Hide\nPharaoh's sceptre\nSeercull\nSmouldering Stone\nZamorak Hilt",
+        "Image": "/osrs_icons/Items/Elite Clue.png",
+        "Goal": 5,
+        "Type": "medium"
+    },
+    {
+        "Id": "57",
+        "Name": "The DogSword but like half of it I guess",
+        "Description": "As a team, obtain 2 godsword hilts.",
+        "LongDescription": "Obtain 2 unique Hilts",
+        "Image": "/osrs_icons/Items/Armadyl_godsword.webp",
+        "Goal": 2,
+        "Type": "medium"
+    },
+    {
+        "Id": "58",
+        "Name": "Avernic Treads",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/eye_of_ayak.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "59",
+        "Name": "Pets!",
+        "Description": "Obtain any major boss pet",
+        "LongDescription": "Must be a boss pet.\nExcludes Chaos Elemental, Dom, and Skotos.\nYama only counts through normal KC, no contracts.\nYou can only gamble quivers/capes/etc you earned during this bingo.",
+        "Image": "/osrs_icons/Items/Bran.png",
+        "Goal": 1,
+        "Type": "hard"
+    },
+    {
+        "Id": "60",
+        "Name": "Toa bad",
+        "Description": "Obtain any non-common purple from ToA",
+        "LongDescription": "Any purple except for Lightbearer or Fang.",
+        "Image": "/osrs_icons/Tombs_Of_Amascut/Elidinis_Ward.webp",
+        "Goal": 1,
+        "Type": "hard"
+    },
+    {
+        "Id": "61",
+        "Name": "Getting a head(s)",
+        "Description": "Obtain four unique heads from the following list",
+        "LongDescription": "Hydra Heads, KQ Head, KBD Heads, Vorkath's Head, Araxyte Head, Abyssal Head, Kurask Head, Basilisk Head",
+        "Image": "/osrs_icons/Items/kbd heads.webp",
+        "Goal": 4,
+        "Type": "medium"
+    },
+    {
+        "Id": "62",
+        "Name": "Voidwaker",
+        "Description": "Obtain any voidwaker piece",
+        "LongDescription": "Must make it out of the wilderness alive.",
+        "Image": "/osrs_icons/Items/Voidwaker.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "63",
+        "Name": "Kits! Dusts! Toa bad!",
+        "Description": "Obtain a kit or dust from CM or HMT",
+        "LongDescription": "Obtain one of the following:\nTwisted Ancestral Colour Kit\nMetamorphic Dust\nSanguine Dust\nSanguine Ornament Kit\nHoly Ornament Kit",
+        "Image": "/osrs_icons/Theatre_Of_Blood/Sanguine_Ornament_Kit.webp",
+        "Goal": 1,
+        "Type": "hard"
+    },
+    {
+        "Id": "64",
+        "Name": "Dragon Clogs",
+        "Description": "Obtain one of the rare clogs from a dragon",
+        "LongDescription": "Obtain one of the following from any source:\nDragon Visage\nDragon Full Helm\n Dragon Metal Slice\nDragon Metal Lump\n Wyvern Visage",
+        "Image": "/osrs_icons/Items/DFH.webp",
+        "Goal": 1,
+        "Type": "easy"
+    },
+    {
+        "Id": "65",
+        "Name": "Outback Yama House",
+        "Description": "Obtain the Soulflame Horn",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/soulflame_horn.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "66",
+        "Name": "$ Snake/Slug/Dragon",
+        "Description": "Obtain 3 of the listed items",
+        "LongDescription": "Items must be unique, they can only count once.\nPhantom Muspah:\nMuphin\nVenator Shard\nVorkath:\nAny unique except for vorkath's head\nZulrah:\nAny unique except for onyx",
+        "Image": "/osrs_icons/Bosses/Zulrah.png",
+        "Goal": 3,
+        "Type": "medium"
+    },
+    {
+        "Id": "67",
+        "Name": "Early Game Grab Bag",
+        "Description": "Obtain 5 of the following items",
+        "LongDescription": "Fire Element Staff Crown\nIce Element Staff Crown\nSarachnis Cudgel\nGiant Club\nScurrius Spine\nBeserker Ring\nDragon Pickaxe\nZenyte Shard\nTome of Earth\nDragon hunter wand",
+        "Image": "/osrs_icons/Items/Bran.png",
+        "Goal": 5,
+        "Type": "easy"
+    },
+    {
+        "Id": "68",
+        "Name": "The Nex Bus",
+        "Description": "Obtain two drops from Nex",
+        "LongDescription": "Can be duplicates.\nZaryte Vambraces\nNihil Horn\nTorva Full Helm\nTorva Platebody\nTorva Platelegs\nAncient Hilt",
+        "Image": "/osrs_icons/Bosses/Nex.png",
+        "Goal": 2,
+        "Type": "hard"
+    },
+    {
+        "Id": "69",
+        "Name": "Demon Hunter",
+        "Description": "Obtain 4 unique items from Demons",
+        "LongDescription": "Unsired\nZ Spear\n Z Hilt\nStaff of the Dead\nPet Kril\nDark Claw\nJar of Darkness\nSkotos\nOathplate Helm/Chest/Legs\nSoulflame Horn\nYami(no contracts)\nAvernic Treads\nEye of ayak\nMokhaiotl cloth\nTormented Synapse\nMonkey Tail",
+        "Image": "/osrs_icons/Items/lesser_demon.webp",
+        "Goal": 4,
+        "Type": "medium"
+    },
+    {
+        "Id": "70",
+        "Name": "Arachnophobia",
+        "Description": "Obtain a unique from every spider boss",
+        "LongDescription": "Any Araxxor unique besides heads/boots\nAny Sarachnis Unique besides Sacs\nAny ToB purple\nAny Spindel/Ven unique",
+        "Image": "/osrs_icons/Items/spider.png",
+        "Goal": 4,
+        "Type": "medium"
+    },
+    {
+        "Id": "71",
         "Name": "The Avatar",
         "Description": "Obtain the 4 Quartz from DT2 bosses",
         "LongDescription": "Requires Ice Quartz, Smoke Quartz, Shadow Quartz, and Blood Quartz",
@@ -55,76 +644,77 @@
         "Type": "medium"
     },
     {
-        "Id": "7",
-        "Name": "The ZCB Pipeline",
-        "Description": "Obtain an Armadyl crossbow",
-        "LongDescription": "Obtain an Armadyl crossbow",
-        "Image": "/osrs_icons/Items/acb.png",
+        "Id": "72",
+        "Name": "Brimmy Keys",
+        "Description": "Obtain a piece of Dusk Mystic",
+        "LongDescription": "Obtain any piece of dusk mystic",
+        "Image": "/osrs_icons/Items/brimstone_key.webp",
         "Goal": 1,
         "Type": "medium"
     },
-
-
-
-
-
-
-{
-    "Id": "x",
-    "Name": "A sqrd tile",
-    "Description": "Obtain a dragon mask from a hard/elite clue",
-    "LongDescription": "Obtain any dragon mask from a hard or elite clue",
-    "Image": "/osrs_icons/Items/dragon_mask.png",
-    "Goal": 1,
-    "Type": "medium"
-  },
-{
-    "Id": "x",
-    "Name": "More new content!",
-    "Description": "Obtain two uniques from Yama/Doom of Mocha",
-    "LongDescription": "Any uniques",
-    "Image": "/osrs_icons/Items/eye_of_ayak.webp",
-    "Goal": 2,
-    "Type": "medium"
-  },
-
     {
-    "Id": "x",
-    "Name": "Defense Drainer",
-    "Description": "Obtain a Dragon Warhammer, Bandos Godsword, Ralos, or Eldermaul",
-    "LongDescription": "BGS only requires the hilt",
-    "Image": "/osrs_icons/Items/ralos.webp",
-    "Goal": 1,
-    "Type": "medium"
-  },
-    {
-        "Id": "x",
-        "Name": "Why do you ask for a tile you know you'll hate?",
-        "Description": "Obtain a Sigil from Corp",
-        "LongDescription": "Obtain either an Arcane, Elysian, or Spectral Sigil.",
-        "Image": "/osrs_icons/Bosses/Corporeal Beast.png",
+        "Id": "73",
+        "Name": "A sqrd tile",
+        "Description": "Obtain a dragon mask from a hard/elite clue",
+        "LongDescription": "Obtain any dragon mask from a hard or elite clue",
+        "Image": "/osrs_icons/Items/dragon_mask.png",
         "Goal": 1,
-        "Shots": 2,
-        "Type": "hard"
-    },
-    {
-        "Id": "x",
-        "Name": "Valamore Scavenger Hunt",
-        "Description": "Obtain 3 items from Valamore bosses",
-        "LongDescription": "Sol Heredit:\nTonalztics of Ralos\nS'mol heredit\nAny sunfire armor (only counts once, MUST KILL SOL to count)\n\nHueycoatl:\nDragon Hunter Wand\nHubert\n\nAmoxliatl\nMoxi\n\nDoom of Mokhaiotl:\nAvernic Treads\nEye of Ayak\nMokhaiotl Cloth\nDom",
-        "Image": "/osrs_icons/Bosses/Sol Heredit.png",
-        "Goal": 3,
         "Type": "medium"
     },
     {
-        "Id": "x",
-        "Name": "Raise Slaymebb from the dead",
-        "Description": "Obtain any of the listed uniques from Phosani",
-        "LongDescription": "Inquisitor's Great Helm\nInquisitor's Hauberk\nInquisitor's Plateskirt\nInquisitor's Mace\nNightmare Staff\nEldritch Orb\nHarmonised Orb\nVolatile Orb",
-        "Image": "/osrs_icons/Bosses/Phosanis Nightmare.png",
-        "Goal": 1,
-        "Shots": 2,
+        "Id": "74",
+        "Name": "Raid Weapons",
+        "Description": "Obtain two unique weapons from a raid",
+        "LongDescription": "Obtain two unique weapons from a purple. Counts anything that can be equipped in your main hand.",
+        "Image": "/osrs_icons/Theatre_Of_Blood/Ghrazi_Rapier.webp",
+        "Goal": 2,
         "Type": "hard"
+    },
+    {
+        "Id": "75",
+        "Name": "They're Everywhere!!",
+        "Description": "Obtain an onyx as a drop 2 times",
+        "LongDescription": "Onyx can be uncut or cut. Can come from any drop, but can not be bought.",
+        "Image": "/osrs_icons/Items/onyx.webp",
+        "Goal": 2,
+        "Type": "Passive",
+        "Passive": true
+    },
+    {
+        "Id": "76",
+        "Name": "",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/eye_of_ayak.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "77",
+        "Name": "",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/eye_of_ayak.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "78",
+        "Name": "",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/eye_of_ayak.webp",
+        "Goal": 1,
+        "Type": "medium"
+    },
+    {
+        "Id": "79",
+        "Name": "",
+        "Description": "",
+        "LongDescription": "",
+        "Image": "/osrs_icons/Items/eye_of_ayak.webp",
+        "Goal": 1,
+        "Type": "medium"
     },
     {}
 ]
