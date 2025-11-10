@@ -1,137 +1,126 @@
 .TileOrdering-wrap {
   display: flex;
   flex-direction: column;
-  gap: 12px;
-  padding: 12px;
+  gap: 10px;
+  padding: 10px;
+  background: #1e1e1e;
+  color: #e0e0e0;
+  min-height: 100vh;
+  box-sizing: border-box;
 }
 
 .TileOrdering-toolbar {
   display: flex;
   align-items: center;
-  gap: 8px;
   flex-wrap: wrap;
+  gap: 8px;
 }
 
-.TileOrdering-search {
-  flex: 1 1 300px;
-  padding: 8px 10px;
-  border: 1px solid #d0d6e0;
-  border-radius: 10px;
-  outline: none;
-}
-
+.TileOrdering-search,
 .TileOrdering-select {
-  padding: 8px 10px;
-  border: 1px solid #d0d6e0;
-  border-radius: 10px;
-  background: #fff;
-}
-
-.TileOrdering-spacer {
-  flex: 1 1 auto;
+  background: #2b2b2b;
+  color: #e0e0e0;
+  border: 1px solid #3a3a3a;
+  border-radius: 6px;
+  padding: 6px 8px;
 }
 
 .TileOrdering-btn,
 .TileOrdering-fileBtn {
-  padding: 8px 12px;
-  border: 1px solid #d0d6e0;
-  border-radius: 10px;
-  background: #f7f9fc;
+  background: #333;
+  color: #e0e0e0;
+  border: 1px solid #444;
+  border-radius: 6px;
+  padding: 6px 10px;
   cursor: pointer;
-  user-select: none;
+  transition: background 0.15s;
 }
 .TileOrdering-btn:hover,
 .TileOrdering-fileBtn:hover {
-  background: #eef3fb;
+  background: #444;
 }
 
 .TileOrdering-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
-  gap: 12px;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 8px;
 }
 
 .TileOrdering-card {
+  background: #2b2b2b;
+  border: 1px solid #3a3a3a;
+  border-radius: 8px;
+  padding: 8px;
   display: flex;
   flex-direction: column;
-  gap: 8px;
-  padding: 10px;
-  border: 1px solid #e5e9f0;
-  border-radius: 14px;
-  background: #fff;
-  box-shadow: 0 1px 3px rgba(0,0,0,.05);
-  outline: none;
+  gap: 6px;
+  transition: transform 0.1s, background 0.1s;
+}
+.TileOrdering-card:hover {
+  background: #343434;
+  transform: translateY(-1px);
 }
 .TileOrdering-card:focus {
-  box-shadow: 0 0 0 3px rgba(100, 150, 250, .35);
+  outline: 1px solid #6a9efc;
 }
 
 .TileOrdering-cardHeader {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  font-size: 11px;
 }
 
 .TileOrdering-index {
-  font-weight: 700;
-  font-size: 12px;
-  color: #6b7280;
-  background: #f1f5f9;
-  padding: 2px 6px;
-  border-radius: 999px;
+  color: #bdbdbd;
+  font-weight: 600;
 }
 
 .TileOrdering-pill {
-  font-size: 11px;
-  padding: 2px 8px;
+  font-size: 10px;
+  padding: 1px 6px;
   border-radius: 999px;
-  border: 1px solid #e5e7eb;
-  background: #fafafa;
+  text-transform: uppercase;
+  font-weight: 600;
 }
-.TileOrdering-pill-early { background: #ecfeff; border-color: #a5f3fc; }
-.TileOrdering-pill-mid { background: #eef2ff; border-color: #c7d2fe; }
-.TileOrdering-pill-late { background: #fdf2f8; border-color: #fbcfe8; }
-.TileOrdering-pill-passive { background: #f0fdf4; border-color: #bbf7d0; }
+.TileOrdering-pill-early { background: #244a4d; color: #7be8ef; }
+.TileOrdering-pill-mid { background: #303459; color: #aab3ff; }
+.TileOrdering-pill-late { background: #532f45; color: #ffa4cc; }
+.TileOrdering-pill-passive { background: #2d4b31; color: #91f49f; }
 
 .TileOrdering-thumbWrap {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 110px;
-  background: #f8fafc;
-  border-radius: 10px;
-  overflow: hidden;
+  height: 80px;
+  border-radius: 6px;
+  background: #1a1a1a;
 }
-
 .TileOrdering-thumb {
   max-width: 100%;
   max-height: 100%;
   object-fit: contain;
 }
-
 .TileOrdering-thumb--missing {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: #9ca3af;
-  font-size: 12px;
+  color: #777;
+  font-size: 11px;
 }
 
 .TileOrdering-name {
   font-weight: 600;
-  font-size: 14px;
-  line-height: 1.2;
-  min-height: 34px;
+  font-size: 13px;
+  line-height: 1.1;
+  color: #f0f0f0;
 }
 
 .TileOrdering-meta {
+  font-size: 10px;
+  color: #a5a5a5;
   display: flex;
-  gap: 10px;
-  font-size: 12px;
-  color: #6b7280;
+  flex-wrap: wrap;
+  gap: 6px;
 }
 
-/* Drag hints */
 .TileOrdering-card[draggable="true"] {
   cursor: grab;
 }

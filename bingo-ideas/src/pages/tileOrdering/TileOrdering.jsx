@@ -14,6 +14,14 @@ const download = (filename, text) => {
   URL.revokeObjectURL(url);
 };
 
+const swap = (arr, i, j) => {
+  if (i === j) return arr;
+  const next = arr.slice();
+  [next[i], next[j]] = [next[j], next[i]];
+  return next;
+};
+
+
 const TileCard = ({ tile, index, onDragStart, onDragOver, onDrop }) => {
   return (
     <div
@@ -96,19 +104,16 @@ const TileOrdering = () => {
     e.preventDefault();
     e.dataTransfer.dropEffect = 'move';
   };
-  const onDrop = (e, visibleIndex) => {
-    e.preventDefault();
-    const from = dragFrom.current;
-    const to = visibleToAbsoluteIndex(visibleIndex);
-    if (from == null || to == null || from === to) return;
-    setTiles((prev) => {
-      const next = prev.slice();
-      const [moved] = next.splice(from, 1);
-      next.splice(to, 0, moved);
-      return next;
-    });
-    dragFrom.current = null;
-  };
+const onDrop = (e, visibleIndex) => {
+  e.preventDefault();
+  const from = dragFrom.current;
+  const to = visibleToAbsoluteIndex(visibleIndex);
+  if (from == null || to == null || from === to) return;
+
+  setTiles((prev) => swap(prev, from, to));
+  dragFrom.current = null;
+};
+
 
   useEffect(() => {
     localStorage.setItem('TileOrdering.reordered', JSON.stringify(tiles));
